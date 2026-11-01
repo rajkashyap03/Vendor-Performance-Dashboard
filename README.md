@@ -174,5 +174,5 @@ Suggestions and contributions are welcome. Contributions can be made through imp
 No license has been specified for this project.
 
 ## 12. Author
-GitHub: rajkasshyap03
+GitHub: rajkashyap03
 Email: rituraj010304@@gmail.com
