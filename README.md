@@ -29,9 +29,13 @@ The project combines Python-based exploratory data analysis, SQL queries, statis
 6. What is the 95% confidence interval for profit margins of top-performing and low-performing vendors?
 7. Is there a significant difference in profit margins between top-performing and low-performing vendors?
 
-## 4. Dashboard Preview
+## 4. Datasets
 
-*Add your Power BI dashboard screenshot here.*
+The datasets used in this project are available below:
+
+1. [Purchase Prices Dataset (CSV)](https://github.com/rajkashyap03/Vendor-Performance-Dashboard/blob/main/purchase_prices.csv)
+2. [Purchase Dataset (CSV)](https://github.com/rajkashyap03/Vendor-Performance-Dashboard/blob/main/purchase.csv)
+3. 
 
 ## 5. Tech Stack
 
